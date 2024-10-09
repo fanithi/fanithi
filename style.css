@@ -523,7 +523,7 @@ nav .fa{
 
 /* Hero Section */
 .hero-section {
-    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url('design2.webp') no-repeat center center/cover;
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url('./images/design2.webp') no-repeat center center/cover;
     color: black;
     text-align: center;
     padding: 4rem 2rem;
